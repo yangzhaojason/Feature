@@ -1,5 +1,3 @@
-# Feature
-Data pre-processing
 # Multi-attribute feature extraction
 
 The goal of this algorithm is to extract the characteristics of multi-dimensional (high-dimensional) attributes and select the series attributes with large attribute weights. The difficulty of the algorithm is to calculate the attribute weights of the corresponding columns, not the dimensionality reduction or eigenvalue decomposition alone(Order), so just using traditional SVD or PCA coordinate mapping does not apply to this scenario.
