@@ -20,8 +20,8 @@ XGBoost is a gradient lifting algorithm and residual decision tree. The basic id
   Three methods of calculating the importance of features are provided in XGBoost：
 
   > ‘weight’ - the number of times a feature is used to split the data across all trees. 
-  > ‘gain’ - the average gain of the feature when it is used in trees 
-  > ‘cover’ - the average coverage of the feature when it is used in trees
+  > ‘gain’ - the average gain of the feature when it is used in trees.
+  > ‘cover’ - the average coverage of the feature when it is used in trees.
 
 - [Feature importance calculation related code in XGBoost-get_score()](https://blog.csdn.net/zhangbaoanhadoop/article/details/81840656)
 
