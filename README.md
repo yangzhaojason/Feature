@@ -31,7 +31,7 @@ LightGBM is a method based on GBDT. For this type of tree-based model, the most 
 
 ## Code running
 
-1) Install the xgboost library（support windows/Linux/macOs）
+1) Install the xgboost library（support windows/Linux/macOS）
 
 2) python Feature_extraction.py 
 
